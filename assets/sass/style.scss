@@ -1,0 +1,20 @@
+$develop: true;
+$production: false;
+$mobile: 0px;
+$tablet: 760px;
+$desktop: 1200px;
+$header-menu-border: #b9b8b9;
+$content-title-color: rgb(61, 60, 63);
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,600,700&amp;subset=cyrillic');
+$OpenSans: 'Open Sans', sans-serif;
+
+@font-face {
+  font-family: 'Corinthia';
+  src: url('fonts/Corinthia.eot');
+  src: local('☺'), url('fonts/Corinthia.woff') format('woff'), url('fonts/Corinthia.ttf') format('truetype'), url('fonts/Corinthia.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+$Corinthia: 'Corinthia', sans-serif;
+@import "includes";

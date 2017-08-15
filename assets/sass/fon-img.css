@@ -1,0 +1,56 @@
+footer {
+  background: url("../img/content/footer--fon.png") no-repeat;
+  background-size: cover;
+}
+
+.footer-logo {
+  background: url("../img/content/footer--fon--fiol.png") no-repeat;
+  background-size: cover;
+}
+
+@media (min-width: 760px) {
+  footer {
+    background: #30427c;
+  }
+}
+
+.differences.main {
+  background: url("../img/content/main-page/differences--fon.jpg") no-repeat;
+}
+
+@media (min-width: 0px) {
+  .differences.main {
+    background-position: 50%;
+  }
+}
+
+@media (min-width: 760px) {
+  .differences.main {
+    background-position: 33% 55%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .differences.main {
+    background-size: cover;
+    background-position: 50%;
+  }
+}
+
+.main.live-beautifully {
+  background: url("../img/content/main-page/live-beautifully--fon.jpg") no-repeat;
+}
+
+@media (min-width: 760px) {
+  .main.live-beautifully {
+    background-position: 40% 0%;
+    background-size: 170%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .main.live-beautifully {
+    background-position: 50%;
+    background-size: cover;
+  }
+}
