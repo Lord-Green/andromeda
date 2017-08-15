@@ -1,14 +1,14 @@
 ## Главная
-https://lord-green.github.io/andromeda/dist/main.html
+https://maxim-buslaev.github.io/andromeda/dist/main.html
 
 ## Страница категорий
-https://lord-green.github.io/andromeda/dist/i-want.html
+https://maxim-buslaev.github.io/andromeda/dist/i-want.html
 
 ## О категории услуг
-https://lord-green.github.io/andromeda/dist/group.html
+https://maxim-buslaev.github.io/andromeda/dist/group.html
 
 ## О услуге
-https://lord-green.github.io/andromeda/dist/group.html
+https://maxim-buslaev.github.io/andromeda/dist/group.html
 
 ## Контентная страница
-https://lord-green.github.io/andromeda/dist/test.html
+https://maxim-buslaev.github.io/andromeda/dist/test.html
